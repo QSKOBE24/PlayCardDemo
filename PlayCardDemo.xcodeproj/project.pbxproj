@@ -498,7 +498,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cn.com.guosen.m.iGoldSun2017;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "6878e04c-2a7c-40f8-8b79-afdbd54e783b";
+				PROVISIONING_PROFILE = "5a5a0c3c-73c3-4c00-b57c-e35c444a20fa";
 				PROVISIONING_PROFILE_SPECIFIER = iGoldSun2017_adHoc;
 			};
 			name = Debug;
@@ -514,7 +514,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cn.com.guosen.m.iGoldSun2017;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "d7a8e7c3-4404-475e-a880-77a3091e7ef8";
+				PROVISIONING_PROFILE = "a4ca4ee8-da9e-4288-90eb-853a3119600f";
 				PROVISIONING_PROFILE_SPECIFIER = iGoldSun2017_Distribution;
 			};
 			name = Release;
