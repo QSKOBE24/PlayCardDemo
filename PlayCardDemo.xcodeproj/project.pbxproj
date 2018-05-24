@@ -494,7 +494,7 @@
 				DEVELOPMENT_TEAM = DYB4RP29K2;
 				INFOPLIST_FILE = PlayCardDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.guosen.qskobe24.PlayCardDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = cn.com.guosen.m.iGoldSun2017;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -506,7 +506,7 @@
 				DEVELOPMENT_TEAM = DYB4RP29K2;
 				INFOPLIST_FILE = PlayCardDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.guosen.qskobe24.PlayCardDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = cn.com.guosen.m.iGoldSun2017;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
